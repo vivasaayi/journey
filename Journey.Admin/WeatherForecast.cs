@@ -1,4 +1,4 @@
-namespace Journey;
+namespace Journey.Admin;
 
 public class WeatherForecast
 {

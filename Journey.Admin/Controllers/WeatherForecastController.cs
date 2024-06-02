@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace Journey.Controllers;
+namespace Journey.Admin.Controllers;
 
 [ApiController]
 [Route("[controller]")]
